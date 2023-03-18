@@ -1,7 +1,7 @@
 # Hi there 👋
 <br>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,css,deno,docker,figma,html,js,linux,nodejs,powershell,py,rust,svg,ts,unity,visualstudio,vscode" />
+   <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,css,deno,docker,figma,html,js,linux,nodejs,py,rust,svg,ts,unity,visualstudio,vscode" />
 </p>
 <br><br>
 <a href="github.com/sklbz" target="_blank">
