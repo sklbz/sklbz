@@ -1,7 +1,7 @@
 ### Hi there 👋
 # - 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=rust,cpp)](https://skillicons.dev)
 
-<img src="https://github-readme-stats.vercel.app/api?username=sklbz&theme=blue-green">[![Sklbz's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=sklbz))](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=sklbz&theme=blue-green"><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=sklbz"/>
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
