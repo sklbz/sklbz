@@ -3,7 +3,7 @@
 <br><br>
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=sklbz&theme=blue-green">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=augustin7698"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sklbz)"/>
 </a>
 <!--
 - 🔭 I’m currently working on ...
