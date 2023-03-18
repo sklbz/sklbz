@@ -2,7 +2,7 @@
 # - 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=rust,cpp)](https://skillicons.dev)
 <br><br>
 <a href="github.com/sklbz">
-  <img src="https://github-readme-stats.vercel.app/api?username=sklbz&theme=blue-green&count_private=true&show_icons=true&hide_border=true&icon_color=606771">
+  <img src="https://github-readme-stats.vercel.app/api?username=sklbz&theme=blue-green&count_private=true&show_icons=true&hide_border=true&icon_color=604771">
 </a>
 <!--
 - 🔭 I’m currently working on ...
