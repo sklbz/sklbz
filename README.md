@@ -1,6 +1,6 @@
 # Hi there 👋
 <br>
-<p align="center" style="display:flex;align-item:center;justify-content:center;>
+<p align="center" style="display:flex;align-item:center;justify-content:center;">
    <img src="https://skillicons.dev/icons?i=linux,bash,vscode,css,docker,figma,html,js,nodejs,deno,py,svg,ts,unity,c,cs,cpp,rust" />
 </p>
 <br><br>
