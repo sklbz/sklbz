@@ -1,8 +1,8 @@
 ### Hi there 👋
-
-<img src="https://github-readme-stats.vercel.app/api?username=augustin7698&theme=blue-green">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=augustin7698"/>
-
+<a href="github.com/sklbz">
+  <img src="https://github-readme-stats.vercel.app/api?username=sklbz&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=sklbz"/>
+</a>
 - 🌱 I’m currently learning <img src="[![My Skills](https://skillicons.dev/icons?i=rust,cpp)](https://skillicons.dev)">
 <!--
 - 🔭 I’m currently working on ...
