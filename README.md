@@ -7,8 +7,9 @@
 </p>
 <br><br>
 <p align="center">
-   <a href="github.com/sklbz" target="_blank">
+   <a href="#">
       <img src="https://github-readme-stats.vercel.app/api?username=sklbz&theme=blue-green&count_private=true&show_icons=true&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sklbz">
    </a>
 </p>
 <!--
