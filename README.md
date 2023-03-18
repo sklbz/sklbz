@@ -6,8 +6,9 @@
    </a>
 </p>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=sklbz&theme=blue-green&count_private=true&show_icons=true&hide_border=true">
-
+<a href="#rank">
+<img id="rank" src="https://github-readme-stats.vercel.app/api?username=sklbz&theme=blue-green&count_private=true&show_icons=true&hide_border=true">
+</a>
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
