@@ -11,7 +11,7 @@
    </a>
 </p>
 <br><br>
-<b> 🔭 I’m currently working on remaking my personal website with astro.js</b>
+<b font-size="2rem"> 🔭 I’m currently working on remaking my personal website with astro.js</b>
 
 <!--
 - 🔭 I’m currently working on ...
