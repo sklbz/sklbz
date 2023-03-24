@@ -1,5 +1,4 @@
 # Hi there 👋
-# hey
 <br>
 <p align="center">
    <a href="#">
@@ -12,7 +11,7 @@
    </a>
 </p>
 <br><br>
-🔭 I’m currently working on remaking my personal website with astro.js
+<b> 🔭 I’m currently working on remaking my personal website with astro.js</b>
 
 <!--
 - 🔭 I’m currently working on ...
