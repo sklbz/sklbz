@@ -5,7 +5,7 @@
       <img src="https://skillicons.dev/icons?i=linux,bash,vscode,svg,css,html,js,ts,astro,nodejs,deno,c,cs,cpp,rust" />
    </a>
    <br><br>
-   <p align="justify">  - 🔭 I’m currently working on remaking my personal website with astro.js </p>
+   <h5 align="justify">  - 🔭 I’m currently working on remaking my personal website with astro.js </h5>
 <br><br>
    <a href="#rank">
       <img src="https://github-readme-stats.vercel.app/api?username=sklbz&theme=blue-green&count_private=true&show_icons=true&hide_border=true">
