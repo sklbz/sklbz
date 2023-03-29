@@ -5,7 +5,9 @@
       <img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,vscode" />
       <img src="https://skillicons.dev/icons?i=visualstudio,vim,unity,figma,svg" />
       <img src="https://skillicons.dev/icons?i=py,css,html,js,ts" />
-      <img src="https://skillicons.dev/icons?i=astro,vite,svelte,vue,solidjs,react,threejs,nodejs,deno,firebase,c,cs,cpp,rust" />
+      <img src="https://skillicons.dev/icons?i=astro,vite,svelte,vue,solidjs" />
+      <img src="https://skillicons.dev/icons?i=react,threejs,nodejs,deno,firebase" />
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,rust" />
    </a>
    <br><br>
    <a href="/">
