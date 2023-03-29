@@ -2,8 +2,8 @@
 <br>
 <p align="center">
    <a href="/">
-      <img src="https://skillicons.dev/icons?i=linux,bash,vscode,svg,css,html,js,ts" />      
-      <img src="https://skillicons.dev/icons?i=astro,svelte,vue,nodejs,deno,c,cs,cpp,rust" />
+      <img src="https://skillicons.dev/icons?i=linux,bash,vscode,svg,css,html,js,ts,astro" />      
+      <img src="https://skillicons.dev/icons?i=svelte,vue,solid,mithril,nodejs,deno,c,cs,cpp,rust" />
    </a>
    <br><br>
    <a href="/">
