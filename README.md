@@ -3,11 +3,11 @@
 <p align="center">
    <a href="/">
       <img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,vscode" />
-      <img src="https://skillicons.dev/icons?i=visualstudio,vim,unity,figma,svg" />
-      <img src="https://skillicons.dev/icons?i=py,css,html,js,ts" />
-      <img src="https://skillicons.dev/icons?i=astro,vite,svelte,vue,solidjs" />
-      <img src="https://skillicons.dev/icons?i=react,threejs,nodejs,deno,firebase" />
-      <img src="https://skillicons.dev/icons?i=c,cs,cpp,rust" />
+      <img src="https://skillicons.dev/icons?i=visualstudio,vim,unity,codepen,figma" />
+      <img src="https://skillicons.dev/icons?i=svg,py,css,html,js" />
+      <img src="https://skillicons.dev/icons?i=ts,astro,vite,svelte,vue" />
+      <img src="https://skillicons.dev/icons?i=solidjs,react,threejs,nodejs,deno" />
+      <img src="https://skillicons.dev/icons?i=firebase,c,cs,cpp,rust" />
    </a>
    <br><br>
    <a href="/">
