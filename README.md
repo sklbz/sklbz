@@ -7,8 +7,8 @@
       <img src="https://skillicons.dev/icons?i=svg,py,css,html,markdown" />
       <img src="https://skillicons.dev/icons?i=js,ts,jest,astro,vite" />
       <img src="https://skillicons.dev/icons?i=svelte,vue,react,threejs,nodejs" />
-      <img src="https://skillicons.dev/icons?i=deno,firebase,c,cs,cpp,rust" />
-      <img src="https://skillicons.dev/icons?i=git,github" />
+      <img src="https://skillicons.dev/icons?i=deno,firebase,c,cs,cpp" />
+      <img src="https://skillicons.dev/icons?i=rust,git,github" />
    </a>
    <br><br>
    <a href="/">
