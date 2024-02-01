@@ -17,7 +17,7 @@
    </a>
 </p>
 <br><br>
-<b> 🔭 I’m currently working on remaking my personal website with astro.js 🚀 and svelte</b>
+<b> 🔭 I’m currently working on video games 🎮</b>
 
 <!--
 - 🔭 I’m currently working on ...
