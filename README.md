@@ -17,7 +17,7 @@
    </a>
 </p>
 <br><br>
-<b> 🔭 I’m currently working on video games 🎮</b>
+<b> 🔭 Working on video games 🎮<br> 🌱 Learning Zig ⚡</b>
 
 <!--
 - 🔭 I’m currently working on ...
