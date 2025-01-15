@@ -11,13 +11,11 @@
       <img src="https://skillicons.dev/icons?i=rust,tauri,git,github,discord"/>
    </a>
    <br><br>
-   <a href="/">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sklbz&theme=blue-green&count_private=true&show_icons=true&hide_border=true&rank_icon=github">
-      <img height=200 align="center"src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=donut&theme=github_dark&hide_border=true&username=sklbz">
-   </a>
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sklbz&theme=blue-green&count_private=true&show_icons=true&hide_border=true&rank_icon=github">
+   <img height=200 align="center"src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=donut&theme=github_dark&hide_border=true&username=sklbz">
 </p>
 <br><br>
-<b> 🔭 Working on video games 🎮<br> 🌱 Learning Zig ⚡</b>
+** 🔭 Building a neural net with Rust<br> 🌱 Learning Zig ⚡ **
 
 <!--
 - 🔭 I’m currently working on ...
