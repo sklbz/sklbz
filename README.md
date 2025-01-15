@@ -15,7 +15,7 @@
    <img height=200 align="center"src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=donut&theme=github_dark&hide_border=true&username=sklbz">
 </p>
 <br><br>
-** 🔭 Building a neural net with Rust<br> 🌱 Learning Zig ⚡ **
+<b> 🔭 Building a neural net with Rust<br> 🌱 Learning Zig ⚡ </b>
 
 <!--
 - 🔭 I’m currently working on ...
