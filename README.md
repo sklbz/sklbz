@@ -1,12 +1,11 @@
 # Hi there 👋
 <br>
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,vscode" />
-      <img src="https://skillicons.dev/icons?i=visualstudio,vim,unity,codepen,figma" />
-      <img src="https://skillicons.dev/icons?i=svg,py,css,html,markdown" />
-      <img src="https://skillicons.dev/icons?i=js,ts,astro,vite,svelte" />
-      <img src="https://skillicons.dev/icons?i=vue,react,threejs,nodejs,deno" />
-      <img src="https://skillicons.dev/icons?i=firebase,supabase,c,cs,cpp," />
+      <img src="https://skillicons.dev/icons?i=unity,codepen,figma,svg,py" />
+      <img src="https://skillicons.dev/icons?i=css,html,markdown,ts" />
+      <img src="https://skillicons.dev/icons?i=astro,vite,svelte,vue,react" />
+      <img src="https://skillicons.dev/icons?i=threejs,nodejs,deno,firebase,supabase" />
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,carbon" />
       <img src="https://skillicons.dev/icons?i=rust,tauri,yew,rocket"/>
    <br><br>
    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sklbz&theme=catppuccin_mocha&count_private=true&show_icons=true&hide_border=true&rank_icon=github&hide=contrib">
