@@ -1,13 +1,13 @@
 # Hi there 👋
 <br>
 <p align="center">
-      {::comment}
+      <!--
       <img src="https://skillicons.dev/icons?i=unity,codepen,figma,svg,py" />
       <img src="https://skillicons.dev/icons?i=css,html,markdown,ts" />
       <img src="https://skillicons.dev/icons?i=astro,vite,svelte,vue,react" />
       <img src="https://skillicons.dev/icons?i=threejs,nodejs,deno,firebase,supabase" />
       <img src="https://skillicons.dev/icons?i=c,cs,cpp,glsl" />
-      {:/comment}
+      -->
       <img src="https://skillicons.dev/icons?i=rust,tauri,yew,rocket, docker"/>
    <br><br>
    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sklbz&theme=catppuccin_mocha&count_private=true&show_icons=true&hide_border=true&rank_icon=github&hide=contrib">
