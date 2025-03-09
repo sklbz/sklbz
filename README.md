@@ -10,7 +10,7 @@
       <img src="https://skillicons.dev/icons?i=rust,tauri,git,github,discord"/>
    <br><br>
    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sklbz&theme=catppuccin_mocha&count_private=true&show_icons=true&hide_border=true&rank_icon=github&hide=contrib">
-   <img height=200 align="center"src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=donut&theme=catppuccin_mocha&hide_border=true&username=sklbz&hide=hlsl,cmake,javascript,html,css,lua,shaderlab">
+   <img height=200 align="center"src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=donut&theme=catppuccin_mocha&hide_border=true&username=sklbz&hide=hlsl,cmake,javascript,html,css,lua,makefile">
 </p>
 <br><br>
 <b> 🔭 Building a neural net with Rust<br> 🌱 Learning Zig ⚡ </b>
