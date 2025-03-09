@@ -1,6 +1,6 @@
 # Hi there 👋
 <br>
-<p align="center" style="dipsplay: grid; gap: 3px;">
+<p align="center" style="dipsplay: grid; gap: 20px;">
       <img src="https://skillicons.dev/icons?i=unity,codepen,figma,svg,py" />
       <img src="https://skillicons.dev/icons?i=css,html,markdown,ts" />
       <img src="https://skillicons.dev/icons?i=astro,vite,svelte,vue,react" />
