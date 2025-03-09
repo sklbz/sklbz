@@ -13,7 +13,7 @@
    <img height=200 align="center"src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=donut&theme=catppuccin_mocha&hide_border=true&username=sklbz&hide=hlsl,cmake,javascript,html,css,lua,makefile">
 </p>
 <br><br>
-<b> 🔭 Building a neural net with Rust<br> 🌱 Learning Zig ⚡ </b>
+<b> 🔭 Building a chess neural net with Rust<br> 🌱 Learning Zig ⚡ </b>
 
 <!--
 - 🔭 I’m currently working on ...
